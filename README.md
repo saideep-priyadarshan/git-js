@@ -1,4 +1,4 @@
-# simple-app
+# Git & JavaScript
 This is a simple project that was created to learn Git and GitHub. Below is a brief description of the project:
 
 ## Purpose
@@ -10,8 +10,8 @@ This is a simple project that was created to learn Git and GitHub. Below is a br
 - && Some javascript too.
 
 ## How to Set Up Locally
-1. Clone the repository: `git clone https://github.com/saideep-priyadarshan/simple-app.git`
-2. Navigate to the project folder: `cd simple-app`
+1. Clone the repository: `git clone https://github.com/saideep-priyadarshan/git-js.git`
+2. Navigate to the project folder: `cd git-js`
 
 ## Contribution
 Others can contribute to this repo by following these steps:
